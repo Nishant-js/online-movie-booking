@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/online-movie-booking/static/css/main.4152c3d3.css",
+    "main.js": "/online-movie-booking/static/js/main.5ccde528.js",
+    "index.html": "/online-movie-booking/index.html",
+    "main.4152c3d3.css.map": "/online-movie-booking/static/css/main.4152c3d3.css.map",
+    "main.5ccde528.js.map": "/online-movie-booking/static/js/main.5ccde528.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.5ccde528.js"
+  ]
+}
